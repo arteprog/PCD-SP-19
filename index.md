@@ -42,7 +42,7 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 **ThoughtWorks** is a software company and a community of passionate, purpose-led individuals. They think disruptively to deliver technology to address their clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change.
 
-**Noite de Processing** is a regular meetup to talk about art and programming, not exclusively about Processing. A free and open meeting (no registration required). The activity is organized by Monica Rizzolli, Alexandre Villares and João Antonio de F. P. e Ferreira (since 2018), usually held every month on the last tuesday at 7PM.
+**[Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing)** is a regular meetup to talk about art and programming, not exclusively about Processing. A free and open meeting (no registration required). The activity is organized by Monica Rizzolli, Alexandre Villares and João Antonio de F. P. e Ferreira (since 2018), usually held every month on the last tuesday at 7PM.
 
 #### Acknowledgments:
 
