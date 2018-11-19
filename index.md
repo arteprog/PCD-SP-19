@@ -1,7 +1,7 @@
 
 <!-- ![logo](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/PCD_circle__logo(1).png) -->
 
-<img src="/assets/PCD_circle__logo(1).png" align="right"  alt="output passo 4">
+<img src="/assets/PCD_circle__logo(1).png" align="left"  alt="output passo 4">
 
 ## [Processing Community Day 2019](https://day.processing.org/)
 
