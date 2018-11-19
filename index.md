@@ -15,14 +15,13 @@ For PCD 2019, we would like to broaden the reach and impact of this community by
 
 ### PCD @ São Paulo: January 19, 2019
 
-8-hour Processing Community Day / 10AM to 06PM
+When: January 19, 2019, 10 AM - 06 PM
 
-Venue: ThoughtWorks Brazil
+Where: ThoughtWorks Brazil
 
 Avenida Paulista, 2300 - Edifício São Luis Gonzaga- Conjunto 41
 
 Bela Vista, São Paulo - SP, 01310-300, Brazil 
-
 
 The group of people organizing PCD @ São Paulo grew from personal links and educational activities of people involved with Noite de Processing, a monthly arts and programming meetup at [Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal), the first Brazilian hackerspace, in São Paulo.
 
