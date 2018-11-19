@@ -38,12 +38,12 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 **Marco Macarena** is a Full Stack Web Developer with a background in Education (Pedagogy). He works with programming, education and their relations, as a Project Manager concerned with professional development and also as a teacher of young people taking their first steps in programming with Python and JavaScript.
 
-#### Support:
+### Support:
 
 **ThoughtWorks** is a software company and a community of passionate, purpose-led individuals. They think disruptively to deliver technology to address their clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change.
 
 **[Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing)** is a regular meetup to talk about art and programming, not exclusively about Processing. A free and open meeting (no registration required). The activity is organized by Monica Rizzolli, Alexandre Villares and João Antonio de F. P. e Ferreira (since 2018), usually held every month on the last tuesday at 7PM.
 
-#### Acknowledgments:
+### Acknowledgments:
 
 Luciano Ramalho
