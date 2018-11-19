@@ -1,6 +1,5 @@
 
 ## Processing Community Day 2019
-<hr>
 
 ### Worldwide: January 15 - February 15, 2019
 
