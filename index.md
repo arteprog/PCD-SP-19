@@ -60,4 +60,6 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 Luciano Ramalho, Tony de Marco
 
+<hr>
+
 ### [Code of Conduct](https://info.thoughtworks.com/code-of-conduct-en.html)
