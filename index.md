@@ -1,5 +1,5 @@
 
-## Processing Community Day 2019
+## [Processing Community Day 2019](https://day.processing.org/)
 
 ### Worldwide: January 15 - February 15, 2019
 
@@ -47,5 +47,3 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 #### Acknowledgments:
 
 Luciano Ramalho
-
-<script src="../footer.js"></script> 
