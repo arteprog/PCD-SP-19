@@ -1,5 +1,5 @@
 
-<!-- ![logo](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/PCD_circle__logo(1).png)>
+<!-- ![logo](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/PCD_circle__logo(1).png) -->
 
 <img src="/assets/PCD_circle__logo(1).png" align="right"  alt="output passo 4">
 
