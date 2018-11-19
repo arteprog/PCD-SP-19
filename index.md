@@ -1,5 +1,5 @@
 
-## [Processing Community Day 2019](https://day.processing.org/)
+![logo](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/PCD_circle__logo(1).png) ## [Processing Community Day 2019](https://day.processing.org/)
 
 ### Worldwide: January 15 - February 15, 2019
 
