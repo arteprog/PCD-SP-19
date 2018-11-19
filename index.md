@@ -11,6 +11,8 @@ A focus of this project is to make learning how to program and make creative wor
 
 For PCD 2019, we would like to broaden the reach and impact of this community by organizing with hundreds of Processing communities around the world. The Processing Foundation will be organizing a Processing Community Day in Los Angeles as well as inviting node organizers from all over the world to join us in organizing events in multiple locations. 
 
+<hr>
+
 ### PCD @ São Paulo: January 19, 2019
 
 8-hour Processing Community Day / 10AM to 06PM
