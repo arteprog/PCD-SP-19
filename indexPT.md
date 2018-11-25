@@ -14,7 +14,7 @@ Para o PCD 2019 nós gostaríamos de ampliar o alcance e impacto desta comunidad
 
 ### PCD @ São Paulo: 19 de janeiro de 2019
 
-![convite](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/pcd.jpg)
+![convite](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/pcd2.jpg)
 
 ###### Imagem por Monica Rizzolli (homenagem à Susan Kare)
 
