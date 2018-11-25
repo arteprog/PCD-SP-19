@@ -111,4 +111,4 @@ Luciano Ramalho, Tony de Marco
 
 <hr>
   
-[CÓDIGO DE CONDUTA](/Código de Conduta para eventos na TW(1).pdf)  
+[CÓDIGO DE CONDUTA](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Co%CC%81digo%20de%20Conduta%20para%20eventos%20na%20TW(1).pdf)  
