@@ -38,7 +38,38 @@ Each session must refer to a track and last 45 minutes. You can define the sessi
 #### Lightning talk
 Each lightning must refer to a track and last 5 minutes.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?embedded=true" width="640" height="3121" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+[FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)
+
+<hr>
+
+### Tracks
+
+#### To Learn
+
+![1](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/aprender.png)
+
+###### Image by Monica Rizzolli 
+
+Track for talks about educational processes with programming and art. We’re interested in presentations/activities which deal with pedagogy, new teaching approaches and educational infrastructures. Anything and everything about teaching and learning processes.
+Organizer: Marco Macarena
+
+#### To Play
+
+![2](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/jogar.png)
+
+###### Image by Monica Rizzolli 
+
+Participants will vote to select an Arcade game that will be developed from scratch by everyone, possibly in Coding Dojo style, depending on the public.
+Organizer: João Antonio
+
+#### To do
+
+![3](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/fazer.png)
+
+###### Image by Monica Rizzolli 
+
+A track for sessions about the process of creating artifacts with programming. We are interested in presentations/activities involving algorithms, drawing techniques, project infrastructures, etc. All that is related to the artistic decisions, its implementations and applications.
+Organizer: Bernardo Fontes
 
 ### People:
 
