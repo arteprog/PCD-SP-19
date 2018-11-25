@@ -32,10 +32,10 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 ### Open Call:
 
-#### Sessions
+#### Sessions:
 Each session must refer to a track and last 45 minutes. You can define the session’s format, it may be a workshop, discussion panel, group project or mini-hackathon. A session can accommodate up to 40 people in the main room, or 25 in the side room. Specify in your proposal whether your session has an attendance limit. 
 
-#### Lightning talk
+#### Lightning talk:
 Each lightning must refer to a track and last 5 minutes.
 
 [FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)
@@ -44,7 +44,7 @@ Each lightning must refer to a track and last 5 minutes.
 
 ### Tracks:
 
-#### To Learn
+#### To Learn:
 
 ![1](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/aprender.png)
 
@@ -54,7 +54,7 @@ Track for talks about educational processes with programming and art. We’re in
 
 Organizer: Marco Macarena
 
-#### To Play
+#### To Play:
 
 ![2](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/jogar.png)
 
@@ -64,7 +64,7 @@ Participants will vote to select an Arcade game that will be developed from scra
 
 Organizer: João Antonio
 
-#### To do
+#### To do:
 
 ![3](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/fazer.png)
 
@@ -78,13 +78,13 @@ Organizer: Bernardo Fontes
 
 ### People:
 
-#### Primary organizers
+#### Primary organizers:
 
 **Alexandre Villares** studied architecture at FAU-USP and is currently enrolled on ATC FEC/Unicamp master’s program, researching computer programming teaching on a visual context. Processing Foundation member, co-organizer of Noite de Processing at Garoa Hacker Clube and partner at arteprog.space. Works as a teacher and educator in São Paulo, while writing daily sketches at abav.lugaralgum.com/sketch-a-day. 
 
 **Monica Rizzolli** is best know for her computer simulations that transform environmental cues into landscape animations. The projections explore themes such as: the image of the city, environmental psychology and the human perception of the space. Rizzolli has exhibited in the US (MAK Center’s Artists and Architects, LA), Brazil, Germany, China and Spain. Awards include MAK Schindler Scholarship (MAK Vienna) and Sweet Home (Hablarenarte, Madrid). Currently, she develops a series of educational projects related to art and technology and develops projects such as ["Constrast"](https://contrast.parts/) with the type designer Tony de Marco. Born in São Carlos, Rizzolli attended the Instituto de Artes da UNESP (Fine Arts, São Paulo, Brazil) and the Kunsthochschule Kassel (Drawing, Kassel, Germany), she lives and works in São Paulo and is a Processing Foundation member.
 
-#### Co-organizers
+#### Co-organizers:
 
 **João Antonio** de F. P. e Ferreira, 27 years old, is an independent programmer doing work ranging from software art and creative coding to game development and desktop utilities since 2013. His portfolio can be found at https://introscopia.github.io/en/index.html
 
