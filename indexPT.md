@@ -30,6 +30,52 @@ O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividad
 
 <hr>
 
+### Open Call:
+
+#### Sessões
+Cada sessão deve se referir a uma trilha e durar 45 minutos. O formato da sessão fica a seu critério, pode ser uma oficina, painel de discussão, projeto em grupo ou mini-hackatona. Uma sessão pode acomodar até 40 pessoa no espaço principal ou 25 na segunda sala. Avise na sua proposta se a sua sessão tem um limite de participantes. A trilha Para Jogar não terá sessões, somente relâmpagos. 
+
+#### Relâmpagos
+Cada relâmpago (lightning talk) deve se referir a uma trilha e durar 5 minutos.
+
+[FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)
+
+<hr>
+
+### Tracks:
+
+#### Para Aprender
+
+![1](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/aprender.png)
+
+###### Image by Monica Rizzolli 
+
+Trilha para apresentações que falam sobre processos educacionais com programação e arte. Estamos interessados em apresentações/atividades que falem sobre pedagogia, novas abordagens de ensino, sobre infra estruturas educacionais. Tudo o que diz respeito aos processos de ensino e aprendizado.
+
+Organizador: Marco Macarena
+
+#### Para Jogar
+
+![2](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/jogar.png)
+
+###### Image by Monica Rizzolli 
+
+Os participantes vão selecionar democraticamente um jogo Arcade e este será desenvolvido do zero ao longo do dia, podendo haver também seções estilo Dojo, dependendo do público.
+
+Organizador: João Antonio
+
+#### Para Fazer
+
+![3](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/fazer.png)
+
+###### Image by Monica Rizzolli 
+
+Trilha para apresentações que falem sobre o processo de fazer e criar objetos com programação. Estamos interessados em apresentações/atividades que falem sobre algoritmos, sobre técnicas de desenho, sobre infra estruturas de projetos etc. Tudo o que diz respeito à decisões artísticas, suas implementações e aplicações.
+
+Organizador: Bernardo Fontes
+
+<hr>
+
 ### Pessoas:
 
 #### Organizadores
@@ -62,3 +108,7 @@ Trabalha com programação, educação e suas relações, como Gerente de Projet
 ### Agradecimentos:
 
 Luciano Ramalho, Tony de Marco
+
+<h>
+  
+[CÓDIGO DE CONDUTA](PCD-SP-19/assets/Código de Conduta para eventos na TW(1).pdf)  
