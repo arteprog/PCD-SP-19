@@ -109,6 +109,6 @@ Trabalha com programação, educação e suas relações, como Gerente de Projet
 
 Luciano Ramalho, Tony de Marco
 
-<h>
+<hr>
   
-[CÓDIGO DE CONDUTA](PCD-SP-19/assets/Código de Conduta para eventos na TW(1).pdf)  
+[CÓDIGO DE CONDUTA](/assets/Código de Conduta para eventos na TW(1).pdf)  
