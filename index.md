@@ -30,7 +30,7 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 <hr>
 
-### Open Call
+### Open Call:
 
 #### Sessions
 Each session must refer to a track and last 45 minutes. You can define the session’s format, it may be a workshop, discussion panel, group project or mini-hackathon. A session can accommodate up to 40 people in the main room, or 25 in the side room. Specify in your proposal whether your session has an attendance limit. 
@@ -42,7 +42,7 @@ Each lightning must refer to a track and last 5 minutes.
 
 <hr>
 
-### Tracks
+### Tracks:
 
 #### To Learn
 
@@ -70,6 +70,8 @@ Organizer: João Antonio
 
 A track for sessions about the process of creating artifacts with programming. We are interested in presentations/activities involving algorithms, drawing techniques, project infrastructures, etc. All that is related to the artistic decisions, its implementations and applications.
 Organizer: Bernardo Fontes
+
+<hr>
 
 ### People:
 
