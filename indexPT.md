@@ -111,4 +111,4 @@ Luciano Ramalho, Tony de Marco
 
 <hr>
   
-[CÓDIGO DE CONDUTA](/assets/Código de Conduta para eventos na TW(1).pdf)  
+[CÓDIGO DE CONDUTA](/Código de Conduta para eventos na TW(1).pdf)  
