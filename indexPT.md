@@ -32,10 +32,10 @@ O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividad
 
 ### Open Call:
 
-#### Sessões
+#### Sessões:
 Cada sessão deve se referir a uma trilha e durar 45 minutos. O formato da sessão fica a seu critério, pode ser uma oficina, painel de discussão, projeto em grupo ou mini-hackatona. Uma sessão pode acomodar até 40 pessoa no espaço principal ou 25 na segunda sala. Avise na sua proposta se a sua sessão tem um limite de participantes. A trilha Para Jogar não terá sessões, somente relâmpagos. 
 
-#### Relâmpagos
+#### Relâmpagos:
 Cada relâmpago (lightning talk) deve se referir a uma trilha e durar 5 minutos.
 
 [FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)
@@ -44,7 +44,7 @@ Cada relâmpago (lightning talk) deve se referir a uma trilha e durar 5 minutos.
 
 ### Tracks:
 
-#### Para Aprender
+#### Para Aprender:
 
 ![1](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/aprender.png)
 
@@ -54,7 +54,7 @@ Trilha para apresentações que falam sobre processos educacionais com programa�
 
 Organizador: Marco Macarena
 
-#### Para Jogar
+#### Para Jogar:
 
 ![2](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/jogar.png)
 
@@ -64,7 +64,7 @@ Os participantes vão selecionar democraticamente um jogo Arcade e este será de
 
 Organizador: João Antonio
 
-#### Para Fazer
+#### Para Fazer:
 
 ![3](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/fazer.png)
 
@@ -78,13 +78,13 @@ Organizador: Bernardo Fontes
 
 ### Pessoas:
 
-#### Organizadores
+#### Organizadores:
 
 **Alexandre Villares** é arquiteto formado pela FAU-USP. Pesquisa ensino de programação em um contexto visual no mestrado do programa de pós-graduação ATC FEC/Unicamp. Membro da Processing Foundation, co-organizador da Noite de Processing e parte de artepro.space. Trabalha como professor e educador em São Paulo, produzindo com programação sketches diários em abav.lugaralgum.com/sketch-a-day.
 
 **Monica Rizzolli** é conhecida por suas simulações computacionais que transformam sinais do ambiente em paisagens animadas. As projeções exploram temas como: A imagem da cidade, psicologia ambiental e a percepção humana do espaço. Rizzolli já exibiu nos EUA (MAK Center’s Artists and Architects, LA),  Brasil, Alemanha, China e Espanha. Premiações incluem o MAK Schindler Scholarship (MAK Vienna) e o Sweet Home (Hablarenarte, Madrid). Atualmente, ela desenvolve uma série de projetos educacionais relacionados a arte e tecnologia e projetos como “Contrast” com o designer de tipografia Tony de Marco (http:..contrast.parts). Nascida em São Carlos, Rizzolli estudou no Instituto de Artes da UNESP (Belas Artes, São Paulo, Brasil) e no Kunsthochschule Kassel (Drawing, Kassel, Germany). Ela vive e trabalha em São Paulo.
 
-#### Co-organizadores
+#### Co-organizadores:
 
 **João Antonio** de F. P. e Ferreira, 27 anos, é um programador independente
 cujo trabalho abrange desde software-art e creative coding até desenvolvimento de jogos
