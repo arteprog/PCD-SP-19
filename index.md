@@ -51,6 +51,7 @@ Each lightning must refer to a track and last 5 minutes.
 ###### Image by Monica Rizzolli 
 
 Track for talks about educational processes with programming and art. We’re interested in presentations/activities which deal with pedagogy, new teaching approaches and educational infrastructures. Anything and everything about teaching and learning processes.
+
 Organizer: Marco Macarena
 
 #### To Play
@@ -60,6 +61,7 @@ Organizer: Marco Macarena
 ###### Image by Monica Rizzolli 
 
 Participants will vote to select an Arcade game that will be developed from scratch by everyone, possibly in Coding Dojo style, depending on the public.
+
 Organizer: João Antonio
 
 #### To do
@@ -69,6 +71,7 @@ Organizer: João Antonio
 ###### Image by Monica Rizzolli 
 
 A track for sessions about the process of creating artifacts with programming. We are interested in presentations/activities involving algorithms, drawing techniques, project infrastructures, etc. All that is related to the artistic decisions, its implementations and applications.
+
 Organizer: Bernardo Fontes
 
 <hr>
