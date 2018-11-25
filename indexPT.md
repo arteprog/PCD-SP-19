@@ -26,7 +26,7 @@ Avenida Paulista, 2300 - Edifício São Luis Gonzaga- Conjunto 41
 
 Bela Vista, São Paulo - SP, 01310-300, Brazil 
 
-The group of people organizing PCD @ São Paulo grew from personal links and educational activities of people involved with Noite de Processing, a monthly arts and programming meetup at [Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal), the first Brazilian hackerspace, in São Paulo.
+O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividades educacionais das pessoas envolvidas com a Noite de Processing, um encontro mensal sobre arte e programação que acontece no [Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal) em São Paulo.
 
 <hr>
 
@@ -34,17 +34,20 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 #### Organizadores
 
-**Alexandre Villares** studied architecture at FAU-USP and is currently enrolled on ATC FEC/Unicamp master’s program, researching computer programming teaching on a visual context. Processing Foundation member, co-organizer of Noite de Processing at Garoa Hacker Clube and partner at arteprog.space. Works as a teacher and educator in São Paulo, while writing daily sketches at abav.lugaralgum.com/sketch-a-day. 
+**Alexandre Villares** é arquiteto formado pela FAU-USP. Pesquisa ensino de programação em um contexto visual no mestrado do programa de pós-graduação ATC FEC/Unicamp. Membro da Processing Foundation, co-organizador da Noite de Processing e parte de artepro.space. Trabalha como professor e educador em São Paulo, produzindo com programação sketches diários em abav.lugaralgum.com/sketch-a-day.
 
-**Monica Rizzolli** is best know for her computer simulations that transform environmental cues into landscape animations. The projections explore themes such as: the image of the city, environmental psychology and the human perception of the space. Rizzolli has exhibited in the US (MAK Center’s Artists and Architects, LA), Brazil, Germany, China and Spain. Awards include MAK Schindler Scholarship (MAK Vienna) and Sweet Home (Hablarenarte, Madrid). Currently, she develops a series of educational projects related to art and technology and develops projects such as "Constrast" with the type designer Tony de Marco (http:..contrast.parts). Born in São Carlos, Rizzolli attended the Instituto de Artes da UNESP (Fine Arts, São Paulo, Brazil) and the Kunsthochschule Kassel (Drawing, Kassel, Germany), She lives and works in São Paulo. Processing Foundation member.
+**Monica Rizzolli** é conhecida por suas simulações computacionais que transformam sinais do ambiente em paisagens animadas. As projeções exploram temas como: A imagem da cidade, psicologia ambiental e a percepção humana do espaço. Rizzolli já exibiu nos EUA (MAK Center’s Artists and Architects, LA),  Brasil, Alemanha, China e Espanha. Premiações incluem o MAK Schindler Scholarship (MAK Vienna) e o Sweet Home (Hablarenarte, Madrid). Atualmente, ela desenvolve uma série de projetos educacionais relacionados a arte e tecnologia e projetos como “Contrast” com o designer de tipografia Tony de Marco (http:..contrast.parts). Nascida em São Carlos, Rizzolli estudou no Instituto de Artes da UNESP (Belas Artes, São Paulo, Brasil) e no Kunsthochschule Kassel (Drawing, Kassel, Germany). Ela vive e trabalha em São Paulo.
 
 #### Co-organizadores
 
-**João Antonio** de F. P. e Ferreira, 27 years old, is an independent programmer doing work ranging from software art and creative coding to game development and desktop utilities since 2013. His portfolio can be found at https://introscopia.github.io/en/index.html
+**João Antonio** de F. P. e Ferreira, 27 anos, é um programador independente
+cujo trabalho abrange desde software-art e creative coding até desenvolvimento de jogos
+e utilidades para desktop. Seu portfólio online se encontra em https://introscopia.github.io/pt/index.html
 
-**Bernardo Fontes** is a computer scientist with a degree from UFF (Rio de Janeiro). He develops an exploration into minimalistic and procedural practice on several fronts; is one of the creators of a writers' collective called pessoas.cc; signs as berin and 2bonsai in his works with music tracks; and publishes sketches of computational art created at berinhard.github.io/sketches.
+**Bernardo Fontes** é cientista da computação com diploma da UFF (Rio de Janeiro).  Ele desenvolve explorações em práticas minimalistas de processuais em diversas frentes; é um dos criadores de um coletivo de escritores chamado pessoas.cc; Assina como berin e 2bonsai em seus trabalhos com faixas musicais; e publica sketches de arte computacional em berinhard.github.io/sketches.
 
-**Marco Macarena** is a Full Stack Web Developer with a background in Education (Pedagogy). He works with programming, education and their relations, as a Project Manager concerned with professional development and also as a teacher of young people taking their first steps in programming with Python and JavaScript.
+**Marco Macarena** é desenvolvedor web Full Stack com formação em educação (pedagogia).
+Trabalha com programação, educação e suas relações, como Gerente de Projetos engajado em desenvolvimento profissional e também como professor de jovens tomando seus primeiros passos em programação com Python e JavaScript.
 
 <hr>
 
@@ -58,4 +61,4 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 ### Agradecimentos:
 
-Luciano Ramalho
+Luciano Ramalho, Tony de Marco
