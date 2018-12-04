@@ -32,7 +32,9 @@ O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividad
 
 <hr>
 
-### Open Call:
+### Chamada aberta / Open Call:
+
+Receberemos propostas até 25/12/2018 e informaremos da aceitação em 05/01/2019.
 
 #### Sessões:
 Cada sessão deve se referir a uma trilha e durar 45 minutos. O formato da sessão fica a seu critério, pode ser uma oficina, painel de discussão, projeto em grupo ou mini-hackatona. Uma sessão pode acomodar até 40 pessoa no espaço principal ou 25 na segunda sala. Avise na sua proposta se a sua sessão tem um limite de participantes. A trilha Para Jogar não terá sessões, somente relâmpagos. 
