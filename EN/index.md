@@ -34,6 +34,8 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 ### Open Call:
 
+Send your proposal up to December 25th, 2018, and we will anounce acceptance by January 5th, 2019.
+ 
 #### Sessions:
 Each session must refer to a track and last 45 minutes. You can define the session’s format, it may be a workshop, discussion panel, group project or mini-hackathon. A session can accommodate up to 40 people in the main room, or 25 in the side room. Specify in your proposal whether your session has an attendance limit. 
 
