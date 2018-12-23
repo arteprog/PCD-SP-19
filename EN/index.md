@@ -34,15 +34,14 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 ### Open Call:
 
-Send your proposal up to December 25th, 2018, and we will anounce acceptance by January 5th, 2019.
- 
+Send your proposal up to December ~~25th~~ 31st, 2018, and we will anounce acceptance by January 5th, 2019.
+[FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)
+
 #### Sessions:
 Each session must refer to a track and last 45 minutes. You can define the session’s format, it may be a workshop, discussion panel, group project or mini-hackathon. A session can accommodate up to 40 people in the main room, or 25 in the side room. Specify in your proposal whether your session has an attendance limit. 
 
 #### Lightning talk:
 Each lightning must refer to a track and last 5 minutes.
-
-[FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)
 
 <hr>
 
