@@ -58,10 +58,11 @@ O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividad
 
 #### 18:00 - 18:30 - Espaço Grande - Microfone aberto
 
-#### 18:30 - Confraternização
+#### 18:30 - *Confraternização*
 
 <hr>
-~~### Chamada aberta / Open Call:~~
+
+####  Chamada aberta / Open Call (encerrada):
 
 ~~Receberemos propostas até 25/12/2018 **31/12/2018 (estendido)** e informaremos da aceitação em 05/01/2019.
 [FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)~~
