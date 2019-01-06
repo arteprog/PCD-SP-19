@@ -32,10 +32,39 @@ O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividad
 
 <hr>
 
-### Chamada aberta / Open Call:
+#### 10:00 - 10:30 - *Acolhimento*
 
-Receberemos propostas até ~~25/12/2018~~ **31/12/2018 (estendido)** e informaremos da aceitação em 05/01/2019.
-[FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)
+#### 10:30 - 11:00 - Espaço Grande - Boas vindas / Abertura 
+
+#### 11:00 - 12h:30 / 13h30 - 15:00 / 15:30 - 16:15 - Espaço Pequeno - Trilha para Jogar
+
+#### 11:00 - 11:45 - Espaço Grande - Sessão 01
+
+#### 11:45  - 12:30 - Espaço Grande - Sessão 02
+
+#### 12:30 - 13:30 - *Almoço*
+
+#### 13:30 - 14:15 - Espaço Grande - Sessão 03
+
+#### 14:15 - 15:00 - Espaço Grande - Sessão 04
+
+#### 15:00 - 15:30 - *Café* 
+
+#### 15:30 - 16:15 - Espaço Grande - Sessão 05
+
+#### 16:15 - 17:15 - Espaço Grande - Relâmpagos
+
+#### 17:15 - 18:00 - Espaço Grande - Encerramento
+
+#### 18:00 - 18:30 - Espaço Grande - Microfone aberto
+
+#### 18:30 - Confraternização
+
+<hr>
+~~### Chamada aberta / Open Call:~~
+
+~~Receberemos propostas até 25/12/2018 **31/12/2018 (estendido)** e informaremos da aceitação em 05/01/2019.
+[FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)~~
 
 #### Sessões:
 Cada sessão deve se referir a uma trilha e durar 45 minutos. O formato da sessão fica a seu critério, pode ser uma oficina, painel de discussão, projeto em grupo ou mini-hackatona. Uma sessão pode acomodar até 40 pessoa no espaço principal ou 25 na segunda sala. Avise na sua proposta se a sua sessão tem um limite de participantes. A trilha Para Jogar não terá sessões, somente relâmpagos. 
