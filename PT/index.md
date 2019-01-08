@@ -34,46 +34,44 @@ O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividad
 
 ### Grade Oficial
 
-#### 10:00 - 10:30
-Registro / Acolhimento
+#### 10:00 - 10:30 - Registro / Acolhimento
 
-#### 10:30 - 11:00 - Espaço Grande
-Boas vindas / Abertura
+#### 10:30 - 11:00 - Boas vindas / Abertura
 
-#### 11:00 - 12h:30 / 13h30 - 15:00 / 15:30 - 16:15 - Espaço Pequeno
-**[Para Jogar]** - João Antônio Ferreira
+#### 11:00 - 12h:30 / 13h30 - 15:00 / 15:30 - 16:15 - Para Jogar
+João Antônio Ferreira
 
 *Os participantes vão selecionar democraticamente um jogo Arcade e este será desenvolvido do zero ao longo do dia, podendo haver também seções estilo Dojo, dependendo do público.*
 
-#### 11:00 - 11:45 - Espaço Grande
-**[Para Aprender]** Claudio Esperança - Web Python e Processing no ensino de Programação
+#### 11:00 - 11:45 - Web Python e Processing no ensino de Programação
+**[Para Aprender]** - Claudio Esperança
 
 *O uso da linguagem Python no ensino de programação em nível introdutório tem  se tornado uma opção cada vez mais popular. [...]  Nesta apresentação discutirei minha experiência com o uso de Skulpt (interpretador Python escrito em Javascript) mesclado a uma biblioteca Processing simplificada como ferramenta no ensino de Programação no curso de Engenharia de Computação e Informação. Falarei também sobre o desenvolvimento de uma outra ferramenta que substitui o Skulpt por Brython, uma implementação de Python 3 para web, e a biblioteca Processing simplificada por p5.*
 
-#### 11:45  - 12:30 - Espaço Grande
-**[Para Fazer]** Rodrigo Rezende de Souza - A Arqueologia do desenho computacional
+#### 11:45  - 12:30 - A Arqueologia do desenho computacional
+**[Para Fazer]** - Rodrigo Rezende de Souza
 
 *Praticar com os participantes como é formada a imagem computacional realizadas através de operações matemáticas simples e comparando estas operações a comandos da linguagem de programação existentes hoje, utilizando de formas geométricas básicas e se possível pequenas animações.*
 
 #### 12:30 - 13:30 - Almoço
 
-#### 13:30 - 14:15 - Espaço Grande
-**[Para Fazer]** Tatyana Zabanova - Autómatos celulares
+#### 13:30 - 14:15 - Autómatos celulares
+**[Para Fazer]** - Tatyana Zabanova
 
 *Autómatos celulares básicos, tais como Wolfram Rules e Jogo da Vida, por onde começar, como fazer e para onde evoluir.*
 
-#### 14:15 - 15:00 - Espaço Grande
-**[Para Fazer]** André Burnier - Programação como ferramenta para fazer design gráfico
+#### 14:15 - 15:00 - Programação como ferramenta para fazer design gráfico
+**[Para Fazer]** - André Burnier
 
 *A proposta da apresentação é explorar os questionamentos - e algumas soluções - de um designer gráfico em busca maneiras de usar programação como ferramenta para fazer design. Além de explorar alguns usos de programação em meus projetos, eu gostaria de falar sobre o processo de design e como programação impacta a maneira que eu penso e executo minha atividade. De modo geral eu quero transmitir para o público programador a minha perspectiva de como penso e executo um trabalho, e para o público artista gráfico, como a ferramenta (programação) impactou no meu processo criativo e abriu novos horizontes.*
 
 #### 15:00 - 15:30 - Café
 
-#### 15:30 - 16:15 - Espaço Grande
-**[Para Ensinar/Aprender]** Marco Macarena
+#### 15:30 - 16:15 - Espaço Grande - Para Aprender
+**[Para Aprender]** - Marco Macarena
 
-#### 16:15 - 17:15 - Espaço Grande
-**Relâmpagos**
+#### 16:15 - 17:15 - Apresentações Relâmpago
+Já confirmados:
 - Ivan Souto
 - Rui Alão
 - Mariana Pereira Leal
@@ -83,11 +81,9 @@ Boas vindas / Abertura
 - Alexandre Villares
 - Pedro Guglielmo
 
-#### 17:15 - 18:00 - Espaço Grande
-Encerramento
+#### 17:15 - 18:00 - Encerramento
 
-#### 18:00 - 18:30 - Espaço Grande
-Microfone aberto
+#### 18:00 - 18:30 - Microfone aberto
 
 #### 18:30 - Confraternização
 
