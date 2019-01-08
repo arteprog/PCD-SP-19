@@ -67,7 +67,7 @@ João Antônio Ferreira
 
 #### 15:00 - 15:30 - Café
 
-#### 15:30 - 16:15 - Espaço Grande - Para Aprender
+#### 15:30 - 16:15 - Para Aprender
 **[Para Aprender]** - Marco Macarena
 
 #### 16:15 - 17:15 - Apresentações Relâmpago
