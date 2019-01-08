@@ -32,6 +32,14 @@ The group of people organizing PCD @ São Paulo grew from personal links and edu
 
 <hr>
 
+### OPEN REGISTRATIONS!
+
+The participants registration is open and free of charge. Please, fill in the form bellow to register yourself:
+
+[REGISTRATION FORM](https://goo.gl/forms/zKywDBs9V7iBFSJP2)
+
+<hr>
+
 ### Official Schedule
 
 #### 10:00 - 10:30 - Registration
