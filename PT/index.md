@@ -26,52 +26,70 @@ Onde: ThoughtWorks Brazil
 
 Avenida Paulista, 2300 - Edifício São Luis Gonzaga- Conjunto 41
 
-Bela Vista, São Paulo - SP, 01310-300, Brazil 
+Bela Vista, São Paulo - SP, 01310-300, Brazil
 
 O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividades educacionais das pessoas envolvidas com a Noite de Processing, um encontro mensal sobre arte e programação que acontece no [Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal) em São Paulo.
 
 <hr>
 
-#### 10:00 - 10:30 - *Acolhimento*
+### Grade Oficial
 
-#### 10:30 - 11:00 - Espaço Grande - Boas vindas / Abertura 
+#### 10:00 - 10:30
+Registro / Acolhimento
 
-#### 11:00 - 12h:30 / 13h30 - 15:00 / 15:30 - 16:15 - Espaço Pequeno - Trilha para Jogar
+#### 10:30 - 11:00 - Espaço Grande
+Boas vindas / Abertura
 
-#### 11:00 - 11:45 - Espaço Grande - Sessão 01
+#### 11:00 - 12h:30 / 13h30 - 15:00 / 15:30 - 16:15 - Espaço Pequeno
+**[Para Jogar]** - João Antônio Ferreira
 
-#### 11:45  - 12:30 - Espaço Grande - Sessão 02
+*Os participantes vão selecionar democraticamente um jogo Arcade e este será desenvolvido do zero ao longo do dia, podendo haver também seções estilo Dojo, dependendo do público.*
 
-#### 12:30 - 13:30 - *Almoço*
+#### 11:00 - 11:45 - Espaço Grande
+**[Para Aprender]** Claudio Esperança - Web Python e Processing no ensino de Programação
 
-#### 13:30 - 14:15 - Espaço Grande - Sessão 03
+*O uso da linguagem Python no ensino de programação em nível introdutório tem  se tornado uma opção cada vez mais popular. [...]  Nesta apresentação discutirei minha experiência com o uso de Skulpt (interpretador Python escrito em Javascript) mesclado a uma biblioteca Processing simplificada como ferramenta no ensino de Programação no curso de Engenharia de Computação e Informação. Falarei também sobre o desenvolvimento de uma outra ferramenta que substitui o Skulpt por Brython, uma implementação de Python 3 para web, e a biblioteca Processing simplificada por p5.*
 
-#### 14:15 - 15:00 - Espaço Grande - Sessão 04
+#### 11:45  - 12:30 - Espaço Grande
+**[Para Fazer]** Rodrigo Rezende de Souza - A Arqueologia do desenho computacional
 
-#### 15:00 - 15:30 - *Café* 
+*Praticar com os participantes como é formada a imagem computacional realizadas através de operações matemáticas simples e comparando estas operações a comandos da linguagem de programação existentes hoje, utilizando de formas geométricas básicas e se possível pequenas animações.*
 
-#### 15:30 - 16:15 - Espaço Grande - Sessão 05
+#### 12:30 - 13:30 - Almoço
 
-#### 16:15 - 17:15 - Espaço Grande - Relâmpagos
+#### 13:30 - 14:15 - Espaço Grande
+**[Para Fazer]** Tatyana Zabanova - Autómatos celulares
 
-#### 17:15 - 18:00 - Espaço Grande - Encerramento
+*Autómatos celulares básicos, tais como Wolfram Rules e Jogo da Vida, por onde começar, como fazer e para onde evoluir.*
 
-#### 18:00 - 18:30 - Espaço Grande - Microfone aberto
+#### 14:15 - 15:00 - Espaço Grande
+**[Para Fazer]** André Burnier - Programação como ferramenta para fazer design gráfico
 
-#### 18:30 - *Confraternização*
+*A proposta da apresentação é explorar os questionamentos - e algumas soluções - de um designer gráfico em busca maneiras de usar programação como ferramenta para fazer design. Além de explorar alguns usos de programação em meus projetos, eu gostaria de falar sobre o processo de design e como programação impacta a maneira que eu penso e executo minha atividade. De modo geral eu quero transmitir para o público programador a minha perspectiva de como penso e executo um trabalho, e para o público artista gráfico, como a ferramenta (programação) impactou no meu processo criativo e abriu novos horizontes.*
 
-<hr>
+#### 15:00 - 15:30 - Café
 
-####  Chamada aberta / Open Call (encerrada):
+#### 15:30 - 16:15 - Espaço Grande
+**[Para Ensinar/Aprender]** Marco Macarena
 
-~~Receberemos propostas até 25/12/2018 **31/12/2018 (estendido)** e informaremos da aceitação em 05/01/2019.
-[FORM](https://docs.google.com/forms/d/e/1FAIpQLScZSPhHWXLH8TPJV9-5wLNu0PjhI1Xw2HCx4kNg-lc-BkuNKA/viewform?usp=sf_link)~~
+#### 16:15 - 17:15 - Espaço Grande
+**Relâmpagos**
+- Ivan Souto
+- Rui Alão
+- Mariana Pereira Leal
+- Bernardo Fontes
+- Monica Rizzolli
+- João Antônio Ferreira
+- Alexandre Villares
+- Pedro Guglielmo
 
-#### Sessões:
-Cada sessão deve se referir a uma trilha e durar 45 minutos. O formato da sessão fica a seu critério, pode ser uma oficina, painel de discussão, projeto em grupo ou mini-hackatona. Uma sessão pode acomodar até 40 pessoa no espaço principal ou 25 na segunda sala. Avise na sua proposta se a sua sessão tem um limite de participantes. A trilha Para Jogar não terá sessões, somente relâmpagos. 
+#### 17:15 - 18:00 - Espaço Grande
+Encerramento
 
-#### Relâmpagos:
-Cada relâmpago (lightning talk) deve se referir a uma trilha e durar 5 minutos.
+#### 18:00 - 18:30 - Espaço Grande
+Microfone aberto
+
+#### 18:30 - Confraternização
 
 <hr>
 
@@ -81,7 +99,7 @@ Cada relâmpago (lightning talk) deve se referir a uma trilha e durar 5 minutos.
 
 ![1](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/aprender.png)
 
-###### Image by Monica Rizzolli 
+###### Image by Monica Rizzolli
 
 Trilha para apresentações que falam sobre processos educacionais com programação e arte. Estamos interessados em apresentações/atividades que falem sobre pedagogia, novas abordagens de ensino, sobre infra estruturas educacionais. Tudo o que diz respeito aos processos de ensino e aprendizado.
 
@@ -91,7 +109,7 @@ Organizador: Marco Macarena
 
 ![2](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/jogar.png)
 
-###### Image by Monica Rizzolli 
+###### Image by Monica Rizzolli
 
 Os participantes vão selecionar democraticamente um jogo Arcade e este será desenvolvido do zero ao longo do dia, podendo haver também seções estilo Dojo, dependendo do público.
 
@@ -101,7 +119,7 @@ Organizador: João Antonio
 
 ![3](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/fazer.png)
 
-###### Image by Monica Rizzolli 
+###### Image by Monica Rizzolli
 
 Trilha para apresentações que falem sobre o processo de fazer e criar objetos com programação. Estamos interessados em apresentações/atividades que falem sobre algoritmos, sobre técnicas de desenho, sobre infra estruturas de projetos etc. Tudo o que diz respeito à decisões artísticas, suas implementações e aplicações.
 
@@ -143,5 +161,5 @@ Trabalha com programação, educação e suas relações, como Gerente de Projet
 Luciano Ramalho, Tony de Marco
 
 <hr>
-  
-[CÓDIGO DE CONDUTA](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Co%CC%81digo%20de%20Conduta%20para%20eventos%20na%20TW(1).pdf)  
+
+[CÓDIGO DE CONDUTA](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Co%CC%81digo%20de%20Conduta%20para%20eventos%20na%20TW(1).pdf)
