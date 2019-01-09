@@ -13,7 +13,7 @@ O foco deste projeto é tornar o aprendizado de como programar e fazer trabalhos
 Para o PCD 2019 nós gostaríamos de ampliar o alcance e impacto desta comunidade organizando com centenas de comunidades ao redor do mundo. A Fundação Processing organizará um Processing Community Day em Los Angeles assim como convida organizadores de todo o mundo para se juntar a nós em múltiplos lugares em janeiro e fevereiro de 2019.
 
 <hr>
-https://abav.lugaralgum.com/sketch-a-day/
+
 ### PCD @ São Paulo: 19 de janeiro de 2019
 
 ![convite](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/pcd2.jpg)
