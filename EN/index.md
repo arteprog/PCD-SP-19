@@ -4,23 +4,23 @@
 
 ## [Processing Community Day 2019](https://day.processing.org/)
 
-### Worldwide: January 15 - February 15, 2019
+### Worldwide
 
 Processing is a free and open-source software platform for learning how to code within the context of the visual arts, created by Casey Reas and Ben Fry. It is complemented by a web version, called p5.js, created by Lauren McCarthy. To date, Processing and p5.js are used by a worldwide community of artists, coders, educators, students.
 
 A focus of this project is to make learning how to program and make creative work with code accessible to diverse communities, especially those who might not otherwise have access to these tools and resources. The first Processing Community Day (PCD), organized by Taeyoon Choi and the Processing Foundation in 2017 was one of our efforts to improve diversity within the art and programming community. Taking place at the MIT Media Lab, PCD 2017 drew community members from all over the east coast to get together in person to meet, share what they're working on, to learn, and collaborate.
 
-For PCD 2019, we would like to broaden the reach and impact of this community by organizing with hundreds of Processing communities around the world. The Processing Foundation will be organizing a Processing Community Day in Los Angeles as well as inviting node organizers from all over the world to join us in organizing events in multiple locations.
+For PCD 2019, we would like to broaden the reach and impact of this community by organizing with hundreds of Processing communities around the world. The Processing Foundation will be organizing a Processing Community Day in Los Angeles as well as inviting node organizers from all over the world to join us in organizing events in multiple locations, between January 15th and February 15th, 2019.
 
 <hr>
 
-### PCD @ São Paulo: January 19, 2019
+### PCD @ São Paulo: January 19th, 2019
 
 ![convite](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/pcd2.jpg)
 
 ###### Image by Monica Rizzolli (homage to Susan Kare)
 
-When: January 19, 2019, 10 AM - 06 PM
+When: January 19th, 2019, 10 AM - 06 PM
 
 Where: ThoughtWorks Brazil
 
