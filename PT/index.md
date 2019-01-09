@@ -88,6 +88,7 @@ Já confirmados:
 - João Antônio Ferreira
 - Alexandre Villares
 - Pedro Guglielmo
+- Artur Cordeiro
 
 #### 17:15 - 18:00 - Encerramento
 
