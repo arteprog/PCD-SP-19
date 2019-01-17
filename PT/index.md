@@ -36,7 +36,7 @@ O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividad
 
 As inscrições estão encerradas.
 
-<-- A inscrição de participantes já está abertas e não custa nada. Por favor, preencha o formulário a baixo para efetuar a sua inscrição: [FORMULÁRIO DE INSCRIÇÃO](https://goo.gl/forms/zKywDBs9V7iBFSJP2) -->
+<!-- A inscrição de participantes já está abertas e não custa nada. Por favor, preencha o formulário a baixo para efetuar a sua inscrição: [FORMULÁRIO DE INSCRIÇÃO](https://goo.gl/forms/zKywDBs9V7iBFSJP2) -->
 
 <hr>
 
