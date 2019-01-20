@@ -84,11 +84,10 @@ Já confirmados:
 - Rui Alão
 - Mariana Pereira Leal
 - Bernardo Fontes
-- Monica Rizzolli
 - João Antônio Ferreira
-- Alexandre Villares
-- Pedro Guglielmo
+- Alexandre Villares - tentativa de reconstruir esta seta [[Java](https://raw.githubusercontent.com/villares/processing-play/master/seta/seta.pde)][[Python](https://raw.githubusercontent.com/villares/py.processing-play/master/arrow_seta/arrow_seta.pyde)], mas não deu tempo :)
 - Artur Cordeiro
+- Monica Rizzolli
 
 #### 17:15 - 18:00 - Encerramento
 
