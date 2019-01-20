@@ -28,7 +28,7 @@ Avenida Paulista, 2300 - Edifício São Luis Gonzaga- Conjunto 41
 
 Bela Vista, São Paulo - SP, 01310-300, Brazil
 
-O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividades educacionais das pessoas envolvidas com a Noite de Processing, um encontro mensal sobre arte e programação que acontece no [Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal) em São Paulo.
+O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividades educacionais das pessoas envolvidas com a [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), um encontro mensal sobre arte e programação que acontece no [Garoa Hacker Clube](https://garoa.net.br/wiki/P%C3%A1gina_principal) em São Paulo.
 
 <hr>
 
