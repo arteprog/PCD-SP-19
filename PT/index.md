@@ -56,9 +56,9 @@ João Antônio Ferreira
 #### 11:00 - 11:45 - Web Python e Processing no ensino de Programação
 **[Para Aprender]** - Claudio Esperança
 
-[slides da apresentação](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Web_Python_Processing.pdf)
-
 *O uso da linguagem Python no ensino de programação em nível introdutório tem  se tornado uma opção cada vez mais popular. [...]  Nesta apresentação discutirei minha experiência com o uso de Skulpt (interpretador Python escrito em Javascript) mesclado a uma biblioteca Processing simplificada como ferramenta no ensino de Programação no curso de Engenharia de Computação e Informação. Falarei também sobre o desenvolvimento de uma outra ferramenta que substitui o Skulpt por Brython, uma implementação de Python 3 para web, e a biblioteca Processing simplificada por p5.*
+
+[Slides da apresentação](https://github.com/arteprog/PCD-SP-19/blob/master/assets/Web_Python_Processing.pdf)
 
 #### 11:45  - 12:30 - A Arqueologia do desenho computacional
 **[Para Fazer]** - Rodrigo Rezende de Souza
@@ -71,6 +71,8 @@ João Antônio Ferreira
 **[Para Fazer]** - Tatyana Zabanova
 
 *Autómatos celulares básicos, tais como Wolfram Rules e Jogo da Vida, por onde começar, como fazer e para onde evoluir.*
+
+[PDF e código](https://github.com/tatasz/PCD-SP-19/)
 
 #### 14:15 - 15:00 - Programação como ferramenta para fazer design gráfico
 **[Para Fazer]** - André Burnier
