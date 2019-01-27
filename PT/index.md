@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/PCD_circle__logo(1).png)
+﻿![logo](https://raw.githubusercontent.com/arteprog/PCD-SP-19/master/assets/PCD_circle__logo(1).png)
 
 ## [EN](http://arteprog.space/PCD-SP-19/EN/) / [PT](http://arteprog.space/PCD-SP-19/PT/)
 
@@ -50,6 +50,8 @@ O grupo organizando o PCD @ São Paulo surgiu das ligações pessoais e atividad
 João Antônio Ferreira
 
 *Os participantes vão selecionar democraticamente um jogo Arcade e este será desenvolvido do zero ao longo do dia, podendo haver também seções estilo Dojo, dependendo do público.*
+
+["Jogo de Nave"](https://introscopia.github.io/en/Game_Development/Jogo_de_Nave.pde) - o código criado na oficina.
 
 #### 11:00 - 11:45 - Web Python e Processing no ensino de Programação
 **[Para Aprender]** - Claudio Esperança
