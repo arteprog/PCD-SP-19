@@ -72,12 +72,15 @@ João Antônio Ferreira
 
 *Autómatos celulares básicos, tais como Wolfram Rules e Jogo da Vida, por onde começar, como fazer e para onde evoluir.*
 
-[PDF e código](https://github.com/tatasz/PCD-SP-19/)
+[Slides (pdf) e código da apresentação](https://github.com/tatasz/PCD-SP-19/)
 
 #### 14:15 - 15:00 - Programação como ferramenta para fazer design gráfico
 **[Para Fazer]** - André Burnier
 
 *A proposta da apresentação é explorar os questionamentos - e algumas soluções - de um designer gráfico em busca maneiras de usar programação como ferramenta para fazer design. Além de explorar alguns usos de programação em meus projetos, eu gostaria de falar sobre o processo de design e como programação impacta a maneira que eu penso e executo minha atividade. De modo geral eu quero transmitir para o público programador a minha perspectiva de como penso e executo um trabalho, e para o público artista gráfico, como a ferramenta (programação) impactou no meu processo criativo e abriu novos horizontes.*
+
+[Slides da apresentação](https://github.com/arteprog/PCD-SP-19/blob/master/assets/ap2_PCD2019%20copy.pdf)
+
 
 #### 15:00 - 15:30 - Café
 
