@@ -90,7 +90,7 @@ João Antônio Ferreira
 #### 16:15 - 17:15 - Apresentações Relâmpago
 Já confirmados:
 - Ivan Souto
-- Rui Alão
+- Rui Alão - [sketches](https://www.caramboladigital.com.br/pcd/)
 - Mariana Pereira Leal
 - Bernardo Fontes
 - João Antônio Ferreira
