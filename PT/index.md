@@ -91,7 +91,7 @@ João Antônio Ferreira
 Já confirmados:
 - Ivan Souto
 - Rui Alão - [sketches](https://www.caramboladigital.com.br/pcd/)
-- Mariana Pereira Leal
+- Mariana Pereira Leal - [apresentaçao](https://github.com/arteprog/PCD-SP-19/blob/master/assets/apres_mariana_o%20traco.pdf)
 - Bernardo Fontes
 - João Antônio Ferreira
 - Alexandre Villares - tentativa de reconstruir esta seta [[Java](https://raw.githubusercontent.com/villares/processing-play/master/seta/seta.pde)][[Python](https://raw.githubusercontent.com/villares/py.processing-play/master/arrow_seta/arrow_seta.pyde)], mas não deu tempo :)
